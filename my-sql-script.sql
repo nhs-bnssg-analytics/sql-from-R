@@ -1,0 +1,1 @@
+SELECT TOP 10 * FROM MODELLING_SQL_AREA.dbo.New_Cambridge_Score
